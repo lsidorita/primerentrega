@@ -1,0 +1,112 @@
+[
+    {
+      "id": "1",
+      "title": "Laptop",
+      "description": "Laptop de alta gama con procesador i7",
+      "code": "LAPTOP123",
+      "price": 1500,
+      "status": true,
+      "stock": 10,
+      "category": "Electronics",
+      "thumbnails": ["images/laptop1.png", "images/laptop2.png"]
+    },
+    {
+      "id": "2",
+      "title": "Smartphone",
+      "description": "Smartphone con pantalla AMOLED y 128GB de almacenamiento",
+      "code": "PHONE456",
+      "price": 800,
+      "status": true,
+      "stock": 20,
+      "category": "Electronics",
+      "thumbnails": ["images/smartphone1.png"]
+    },
+    {
+      "id": "3",
+      "title": "Auriculares",
+      "description": "Auriculares inalámbricos con cancelación de ruido",
+      "code": "HEAD789",
+      "price": 200,
+      "status": true,
+      "stock": 15,
+      "category": "Accessories",
+      "thumbnails": ["images/headphones1.png"]
+    },
+    {
+      "id": "4",
+      "title": "Monitor 4K",
+      "description": "Monitor 4K UHD de 27 pulgadas con tecnología IPS",
+      "code": "MONITOR101",
+      "price": 350,
+      "status": true,
+      "stock": 8,
+      "category": "Electronics",
+      "thumbnails": ["images/monitor1.png", "images/monitor2.png"]
+    },
+    {
+    "id": "5",
+    "title": "Teclado Mecánico",
+    "description": "Teclado mecánico RGB con switches Cherry MX",
+    "code": "KEYBOARD202",
+    "price": 120,
+    "status": true,
+    "stock": 30,
+    "category": "Accessories",
+    "thumbnails": ["images/keyboard1.png"]
+  },
+  {
+    "id": "6",
+    "title": "Mouse Gamer",
+    "description": "Mouse óptico para gaming con 16,000 DPI",
+    "code": "MOUSE303",
+    "price": 60,
+    "status": true,
+    "stock": 25,
+    "category": "Accessories",
+    "thumbnails": ["images/mouse1.png"]
+  },
+  {
+    "id": "7",
+    "title": "Tablet",
+    "description": "Tablet de 10 pulgadas con 64GB de almacenamiento",
+    "code": "TABLET404",
+    "price": 400,
+    "status": true,
+    "stock": 18,
+    "category": "Electronics",
+    "thumbnails": ["images/tablet1.png", "images/tablet2.png"]
+  },
+  {
+    "id": "8",
+    "title": "Cámara DSLR",
+    "description": "Cámara DSLR con sensor de 24MP y grabación en 4K",
+    "code": "CAMERA505",
+    "price": 900,
+    "status": true,
+    "stock": 12,
+    "category": "Photography",
+    "thumbnails": ["images/camera1.png", "images/camera2.png"]
+  },
+  {
+    "id": "9",
+    "title": "Smartwatch",
+    "description": "Smartwatch resistente al agua con monitor de frecuencia cardíaca",
+    "code": "WATCH606",
+    "price": 250,
+    "status": true,
+    "stock": 40,
+    "category": "Wearables",
+    "thumbnails": ["images/watch1.png"]
+  },
+  {
+    "id": "10",
+    "title": "Consola de Videojuegos",
+    "description": "Consola de última generación con 1TB de almacenamiento",
+    "code": "CONSOLE707",
+    "price": 500,
+    "status": true,
+    "stock": 5,
+    "category": "Gaming",
+    "thumbnails": ["images/console1.png", "images/console2.png"]
+  }
+]
